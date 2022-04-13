@@ -1,0 +1,42 @@
+
+
+@font-face { 
+        font-family: "Gobold";
+        src: url("Gobold.otf");}    
+
+
+#principal {background-image: url("escarcha.jpg");}
+
+#copo {align-items: flex-start; margin: 0px;}
+
+#header {font-size: 500%; font-family: "Gobold"; text-align: center; background-color: black; color: rgb(14, 135, 235); height: 120px; border: solid rgb(14, 135, 235);
+    -webkit-text-stroke: 1px white }
+
+#numws {font-family: "Gobold"; font-size: 25px; color: green; ;}
+
+#barra {font-family: "Gobold"; font-size: 140%; background-color: black; color: white;  display: inline-block; margin-left: 20px; margin-right: 20px; color: rgb(14, 135, 235);
+    -webkit-text-stroke: 0.5px white;}
+
+#servicios {background-color: black; font-size: 20px; color: white;}    
+
+#slider {color: rgb(14, 135, 235); font-family: "Gobold"; font-size: 25px; }
+
+.carousel {margin-top: 100px; width: 600px; height: 600px;  align-content: center; background-color: black; margin-left: 150px;
+     border: solid rgb(14, 135, 235); -webkit-text-stroke: 0.5px white;}
+
+#aa {margin-top: 100px;}
+
+#textaa {margin-top: 00px; font-family: "Gobold"; font-size: 25px; color: rgb(14, 135, 235) }
+
+.formulario {border: solid black; font-family: "Gobold"; border-width: 3px; width: 500px}
+
+#datos {width: 400px; }
+
+#trabajo {font-family: "Gobold"; color:rgb(14, 135, 235); background-color: black; border: solid white;}
+
+#aboutus {font-family: "Gobold"; background-image: url("copo.png"); color: black;}
+
+
+
+
+
