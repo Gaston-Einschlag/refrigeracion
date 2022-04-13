@@ -1,0 +1,10 @@
+@font-face { 
+    font-family: "Gobold";
+    src: url("Gobold.otf");}  
+
+
+
+
+#principal {background-image: url("escarcha.jpg"); font-family: "Gobold"; font-size: 200%;}
+
+#tarjeta {font-family: "Gobold"; color:rgb(14, 135, 235); background-color: black; border: solid white;}
